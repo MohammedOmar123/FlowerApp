@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040596452789",
+    "project_id": "flwor-app",
+    "storage_bucket": "flwor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040596452789:android:aea84af49583e841f845fc",
+        "android_client_info": {
+          "package_name": "com.example.flowerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040596452789-ujjf2m33ghcidg9u5vp0jgh3i3rlep7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJC7V6fOe0cqLOogYG6v_kUUf2OkpRRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040596452789-ujjf2m33ghcidg9u5vp0jgh3i3rlep7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/bnv_selector2.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/bnv_selector3.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/cir.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/ic_baseline_add_circle_24.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/sbara_shape.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/shape1.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/shape2.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/shape_about.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/shapelay.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable-v24/shapelogin.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable/boxesraduis.xml" value="0.1005" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/drawable/shape3.xml" value="0.1" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/activity_about.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/activity_details.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/activity_login.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/activity_main.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/activity_notification.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/activity_sign_up.xml" value="0.18248175182481752" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/cart_item.xml" value="0.1" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/flowers_all_item.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/flowers_item.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/fragment_account.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/fragment_cart.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/fragment_home.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/layout/plant.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/menu/navigation_menu.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.165" />
+        <entry key="..\:/Users/moham/AndroidStudioProjects/FlowerApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.165" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
